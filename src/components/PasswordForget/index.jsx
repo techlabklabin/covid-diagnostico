@@ -102,7 +102,7 @@ class PasswordForgetFormBase extends Component {
                         </Button>
                     </Form.Item>
                     <div className="text-center mt-30">
-                        <img width="50px" src="https://s3-sa-east-1.amazonaws.com/static-c4/klabin-logo.png" alt="logo-klabin" />
+                        <img width="50px" src="https://via.placeholder.com/50" alt="logo-empresa" />
                     </div>
                 </Form>
             </div>

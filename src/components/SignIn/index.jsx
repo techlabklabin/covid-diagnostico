@@ -122,7 +122,7 @@ class SignInFormBase extends Component {
                         Não é cadastrado?  <Link to={ROUTES.SIGN_UP}>Cadastre-se aqui</Link>
                     </div>
                     <div className="text-center mt-30">
-                        <img width="50px" src="https://s3-sa-east-1.amazonaws.com/static-c4/klabin-logo.png" alt="logo-klabin" />
+                        <img width="50px" src="https://via.placeholder.com/50" alt="logo-empresa" />
                     </div>
                 </Form>
             </div>
