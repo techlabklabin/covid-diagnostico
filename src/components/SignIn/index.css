@@ -1,0 +1,17 @@
+.login-wrapper {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background-image: url("../../assets/bg.jpg");
+}
+.login-panel {
+  width: 500px;
+  text-align: left;
+  min-height: 100%;
+  padding: 70px 50px;
+  background-color: #ffffff;
+}
+.ant-form-explain {
+  margin-bottom: 20px;
+}
