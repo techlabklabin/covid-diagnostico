@@ -15,7 +15,7 @@
     "customize-cra": "^0.2.12",
     "decode": "^0.3.0",
     "favicon.js": "^1.0.0",
-    "firebase": "^6.0.2",
+    "firebase": "^7.14.3",
     "formik": "^2.1.4",
     "history": "^4.7.2",
     "install": "^0.13.0",
