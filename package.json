@@ -45,7 +45,7 @@
     "styled-components": "^5.0.1"
   },
   "scripts": {
-    "start": "npx env-cmd -f .env.staging react-app-rewired start",
+    "start": "npx env-cmd -f .env.local react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-app-rewired eject",
