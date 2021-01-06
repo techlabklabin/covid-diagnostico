@@ -7,7 +7,7 @@
     "@redux-offline/redux-offline": "^2.5.1",
     "antd": "^3.18.1",
     "antd-mask-input": "^0.1.12",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "axios-cache-adapter": "^2.3.3",
     "babel-plugin-import": "^1.12.0",
     "cnpj": "^3.0.0",
